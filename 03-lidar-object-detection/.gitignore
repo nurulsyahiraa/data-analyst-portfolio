@@ -1,0 +1,25 @@
+# Restricted research data and artifacts
+/data/
+/outputs/
+*.pcd
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.hdf5
+*.onnx
+*.pkl
+*.pickle
+*.joblib
+*.npz
+*.npy
+*.csv
+*.xlsx
+*.xls
+*.json
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
